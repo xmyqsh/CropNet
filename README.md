@@ -7,5 +7,5 @@ for fast experience on large waymo dataset.
 
 16 FPS on a 800x1200 image with extreme small object in waymo open dataset.
 
-Could be serve as a 100m+ object detector while providing semantic features for FSN in the meaning while.
+Could be serve as a 100m+ object detector while providing semantic features for [FSN](https://github.com/xmyqsh/FSN) in the meaning while.
 ```
